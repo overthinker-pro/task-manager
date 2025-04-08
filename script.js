@@ -64,5 +64,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  loadTasks(); // Initial load
+  loadTasks();
 });
