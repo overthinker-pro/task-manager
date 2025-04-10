@@ -20,6 +20,11 @@ body {
   padding: 30px;
 }
 
+.logo {
+  width: 50px;
+  border-radius: 50%;
+}
+
 /* ===== Headings ===== */
 h1,
 h2 {
